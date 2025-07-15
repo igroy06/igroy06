@@ -1,36 +1,21 @@
-<h1 align="center">Hi 👋, I'm Ishita</h1>
-<h3 align="center">A passionate data scientist from India</h3>
+# 💫 Hi, I am Ishita- a passionate data scientist from Kolkata, India 👋🏻
+🌱 I’m currently learning NLP, LLMs & GenAI<br>💬 Ask me about ML/DL, statistics<br> 📄Learn about my experiences : [My Resume](https://www.linkedin.com/in/ishita-guha-roy/overlay/1752125778314/single-media-viewer?type=DOCUMENT&profileId=ACoAACXHIQIBOnr4yNnNstPc3dLXvTDdTOX4ABo&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BP9KFBDBfTMS%2BHd%2BQtZQ1Sg%3D%3D)<br> 🗃️ My projects can be found on my [Portfolio](https://sites.google.com/view/ishitaguharoyportfolio/home)<br>⚡ Fun fact: I love classic literature & Jane Austen is my favourite author.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=igroy06&label=Profile%20views&color=0e75b6&style=flat" alt="igroy06" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=igroy06" alt="igroy06" /></a> </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishita-guha-roy) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@ishitaguharoy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ishitaguharoy@gmail.com) 
 
-- 🌱 I’m currently learning **LLMs, NLP, GenAI**
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=igroy06&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=igroy06&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=igroy06&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-- 👨‍💻 All of my projects are available at [Project Portfolio](https://sites.google.com/view/ishitaguharoyportfolio/home)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=igroy06&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-- 📝 I regularly write articles on [Medium Blog](https://medium.com/@ishitaguharoy)
+---
+[![](https://visitcount.itsvg.in/api?id=igroy06&icon=1&color=9)](https://visitcount.itsvg.in)
 
-- 💬 Ask me about **Machine Learning, Deep Learning, Statistics**
-
-- 📫 How to reach me: [Email ID](ishitaguharoy@gmail.com)
-
-- 📄 Know about my experiences [My Resume](https://www.linkedin.com/in/ishita-guha-roy/overlay/1752125778314/single-media-viewer?type=DOCUMENT&profileId=ACoAACXHIQIBOnr4yNnNstPc3dLXvTDdTOX4ABo&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bcc6tOmEWRqW520inpV8hBA%3D%3D)
-
-- ⚡ Fun fact **I love reading classic literature & Jane Austen is my favourite author.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ishita-guha-roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishita-guha-roy" height="30" width="40" /></a>
-<a href="https://kaggle.com/igroy06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="igroy06" height="30" width="40" /></a>
-<a href="https://medium.com/@ishitaguharoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ishitaguharoy" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=igroy06&show_icons=true&locale=en&layout=compact" alt="igroy06" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=igroy06&show_icons=true&locale=en" alt="igroy06" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igroy06&" alt="igroy06" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
